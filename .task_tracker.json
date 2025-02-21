@@ -35,9 +35,9 @@
       "subtasks": {
         "Task2SubTask1": {
           "description": "Create core data models",
-          "status": "to-do",
+          "status": "in-progress",
           "micro_agent": "CodeWritingAgent",
-          "details": "Implement data models in lib/models/:\n- flashcard.dart: Flashcard model with content, metadata, and serialization\n- user.dart: User model with authentication and preferences\n- quiz.dart: Quiz model for testing functionality\n- rating.dart: Rating model for feedback system\n- comment.dart: Comment model for user interactions"
+          "details": "Flashcard model implemented successfully with Firebase serialization support. Remaining models (user.dart, quiz.dart, rating.dart, comment.dart) need to be implemented."
         },
         "Task2SubTask2": {
           "description": "Implement Firebase services",
