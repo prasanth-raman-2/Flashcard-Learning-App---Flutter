@@ -41,9 +41,9 @@
         },
         "Task2SubTask2": {
           "description": "Implement Firebase services",
-          "status": "to-do",
+          "status": "in-progress",
           "micro_agent": "CodeWritingAgent",
-          "details": "Create Firebase services in lib/services/:\n- firebase_service.dart: Core Firebase operations\n- auth_service.dart: Authentication service\nImplement CRUD operations and data synchronization"
+          "details": "Firebase services implementation in progress:\n- Completed: Authentication service (auth_service.dart) with email/password auth, Google sign-in, and user management\n- Pending: Firebase service for CRUD operations and data synchronization"
         },
         "Task2SubTask3": {
           "description": "Create unit tests for models and services",
