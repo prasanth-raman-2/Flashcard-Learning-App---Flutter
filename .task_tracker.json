@@ -61,9 +61,9 @@
       "subtasks": {
         "Task3SubTask1": {
           "description": "Create base UI components",
-          "status": "to-do",
+          "status": "in-progress",
           "micro_agent": "CodeWritingAgent",
-          "details": "Implement reusable widgets in lib/widgets/:\n- flashcard_widget.dart: For displaying flashcards\n- quiz_card_widget.dart: For quiz interface\n- progress_indicators.dart: For showing learning progress"
+          "details": "Implemented FlashcardWidget with flip animation and theme support. Next steps:\n- Implement QuizCardWidget\n- Create progress indicators\n- Add accessibility features"
         },
         "Task3SubTask2": {
           "description": "Implement main screens",
