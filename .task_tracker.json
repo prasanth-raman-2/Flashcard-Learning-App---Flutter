@@ -67,9 +67,9 @@
         },
         "Task3SubTask2": {
           "description": "Implement main screens",
-          "status": "to-do",
+          "status": "in-progress",
           "micro_agent": "CodeWritingAgent",
-          "details": "Create main application screens in lib/screens/:\n- home_screen.dart: Main dashboard\n- flashcard_list_screen.dart: Flashcard management\n- quiz_screen.dart: Quiz interface\n- profile_screen.dart: User profile and settings"
+          "details": "Created home_screen.dart with dashboard layout including:\n- AppBar with profile and settings\n- Study progress section\n- Recent flashcards carousel\n- Quick actions grid\n- Performance statistics\n- Study streak display\nTODO: Implement remaining screens (flashcard_list, quiz, profile)"
         },
         "Task3SubTask3": {
           "description": "Create widget tests",
