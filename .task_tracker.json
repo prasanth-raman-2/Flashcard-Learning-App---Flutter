@@ -76,6 +76,12 @@
           "status": "to-do",
           "micro_agent": "TestCodeWritingAgent",
           "details": "Write widget tests for all UI components and screens, ensuring proper rendering and interaction"
+        },
+        "Task3SubTask4": {
+          "description": "Implement study screen with spaced repetition and progress tracking",
+          "status": "to-do",
+          "micro_agent": "CodeWritingAgent",
+          "details": "Create study_screen.dart with:\\n- Study session management\\n- Spaced repetition algorithm\\n- Progress tracking with StudyProgressIndicator\\n- Integration with FlashcardWidget\\n- Session summary view\\n- Study streak tracking\\n- Save progress functionality"
         }
       }
     },
